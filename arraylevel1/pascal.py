@@ -36,3 +36,6 @@ for row in result:
     for val in row:
         print(val, end=" ")
     print()
+
+
+    
